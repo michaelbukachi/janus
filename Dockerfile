@@ -33,4 +33,4 @@ RUN cd janus-gateway && make configs
 EXPOSE 8088
 EXPOSE 8089
 
-CMD [ "/opt/janus/bin/janus"]
+CMD [ "/opt/janus/bin/janus" ]
